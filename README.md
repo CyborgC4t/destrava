@@ -1,2 +1,1 @@
-# destrava
-archivo txt para destrabar el whatsapp
+# varios archivos de utilidad
